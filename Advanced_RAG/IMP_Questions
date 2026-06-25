@@ -1,0 +1,77 @@
+1 / 1 point
+1.
+Question 1
+How would you define the primary purpose of FAISS and how it compares to Chroma DB in terms of functionality?
+
+ANS: 
+FAISS is optimized for efficient similarity search in vector datasets, whereas Chroma DB is a vector database with built-in metadata support and ease of integration for LLM applications.
+
+Nice work
+FAISS is a library that is designed for efficient similarity search in vector datasets. Chroma DB is a vector database optimized for AI workflows, offering metadata support and easy integration with LLM tools.
+
+1 / 1 point
+2.
+Question 2
+When would it be more appropriate to extend FAISS with Milvus instead of using Chroma DB?
+
+ANS: 
+When high-dimensional data needs to be indexed and requires better scalability.
+
+Nice work
+Extending FAISS with Milvus is beneficial for handling high-dimensional data with improved scalability, making it suitable for large-scale applications.
+
+1 / 1 point
+3.
+Question 3
+What is the role of greedy routing in the HNSW algorithm?
+
+ANS: 
+It allows the algorithm to iteratively move to the neighbor closest to the query, reducing the number of distance computations.
+
+Nice work
+Greedy routing helps HNSW efficiently navigate the graph by always choosing the closest neighbor at each step.
+
+1 / 1 point
+4.
+Question 4
+How would you differentiate between FAISS and Chroma DB in terms of their indexing methods?
+
+ANS: 
+FAISS supports multiple index types such as IVF, Flat, and HNSW, whereas Chroma DB primarily uses HNSW.
+
+Nice work
+FAISS employs various indexing methods, including inverted file indexes and HNSW, to handle high-dimensional data efficiently, whereas Chroma DB primarily uses HNSW.
+
+1 / 1 point
+5.
+Question 5
+How would you differentiate between the types of indexes used by FAISS?
+
+ANS: 
+ FAISS uses flat, inverted file (IVF), locality-sensitive hashing (LSH), and hierarchical navigable small world (HNSW) indexes.  
+
+Nice work
+FAISS employs flat, inverted file, LSH and HNSW indexes for efficient similarity searches.
+
+1 / 1 point
+6.
+Question 6
+When should one choose to use FAISS over Chroma DB?
+
+ANS: 
+FAISS should be used when the need is for efficient similarity search in large-scale vector databases.
+
+Nice work
+FAISS is optimized for efficient similarity search, especially in large-scale vector databases.
+
+1 / 1 point
+7.
+Question 7
+What makes the HNSW algorithm efficient for approximate nearest neighbor search in large datasets?
+
+ANS: 
+Its hierarchical structure enables fast traversal from coarse to fine layers, reducing the number of distance computations.
+
+Nice work
+The layered design allows the algorithm to quickly narrow down the search space, improving speed and scalability.
+
