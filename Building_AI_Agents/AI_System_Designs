@@ -1,0 +1,30 @@
+Comparing AI System Designs
+
+-> Single LLM features: Simple, one-shot tasks
+
+Key characteristics
+Single LLM features have the following key characteristics:
+
+Stateless processing: No retention of information or context across interactions.
+Direct input-output flow: Straightforward request-response mechanism.
+Predefined tasks: Suitable only for clearly defined, single-step actions.
+
+
+-> Structured workflows: Multi-step, predictable processes
+
+Key characteristics
+Structured workflows have the following key characteristics:
+
+Deterministic execution: Inputs produce consistent outputs.
+Explicit control flow: All steps and decisions are predefined.
+Predefined tool chains: Tool use is fixed and transparent.
+
+
+-> Autonomous agents: Flexible, context-aware reasoning
+
+Core capabilities
+Autonomous agents have the following core capabilities:
+
+Dynamic planning: Decomposes goals and adjusts steps as needed
+Contextual awareness: Remembers past steps and adapts to user and environment feedback
+Tool orchestration: Selects tools and changes strategies dynamically
