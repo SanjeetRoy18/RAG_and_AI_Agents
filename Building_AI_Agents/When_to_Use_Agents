@@ -1,0 +1,10 @@
+AI agents sit at the highest end of the AI complexity spectrum, excelling at tasks that require autonomous decision-making, adaptation, and strategy.
+Use the four-step decision framework—task ambiguity, step flexibility, tool variety, and failure impact—to decide if an agent is the right fit for the task.
+
+Avoid using agents for simple, repeatable, or high-risk tasks where errors are costly or predictable; tools can perform better.
+
+Today's agents struggle with reliability, high compute costs, and often need human oversight to avoid hallucinations or missteps.
+
+Manage risk by setting boundaries, using logs, monitoring outcomes, and keeping a human-in-the-loop for oversight.
+
+Effective agent architecture includes modular components like memory, tool use, planning strategies, and clear reasoning paths.
