@@ -13,3 +13,17 @@ Key features include:
 -> Orchestration: A lead agent or system coordinates the team.
 
 Example: Planning a vacation—one agent books the flight, another finds hotels and a third checks visa requirements. A coordinator agent makes sure everything matches your preferences.
+
+
+
+
+Building Agentic AI in Practice: Tools and Frameworks
+While the concept of Agentic AI is still evolving, developers and researchers are already prototyping these systems using the following emerging AI orchestration frameworks:
+
+LangChainA Python framework for building applications around LLMs. It supports tool usage, memory, chains of reasoning, and agent interfaces. LangChain provides the building blocks to combine language models with external data and APIs.
+
+LangGraphA framework for building multi-agent workflows using a graph-based execution model. It allows you to define agents as nodes and their interactions as edges, ideal for orchestrating collaborative agents in Agentic AI.
+
+IBM Bee, CrewAI, AutoGen, and othersThese open-source tools simplify the design of multi-agent teams, role assignment, and structured task planning. They allow developers to simulate or deploy collaborative agent environments using memory, messaging, and dynamic delegation.
+
+These frameworks allow developers to begin experimenting with Agentic AI by leveraging reusable modules for planning, reflection, and inter-agent communication.
