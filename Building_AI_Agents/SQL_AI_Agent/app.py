@@ -21,7 +21,7 @@ st.write("Powered by Groq & Llama 4 Scout. Ask any question in natural language!
 # 2. CONFIGURATION & DATABASE INTEGRATION
 # ==========================================
 # Ensure your GROQ API key is configured
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")    <-- Create your own .env file, add your API key
 
 if not GROQ_API_KEY:
     st.error("Please set your GROQ_API_KEY in a .env file.")
