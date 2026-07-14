@@ -1,0 +1,13 @@
+What Is Agentic AI?
+
+Agentic AI takes things a step further. Instead of just one agent doing one job, Agentic AI brings multiple agents together into a team. These agents coordinate tasks, exchange information, adapt roles dynamically, and share memory. Key features include:
+
+-> Task Decomposition: Goals are split into subtasks automatically.
+
+-> Inter-Agent Communication: Agents share updates and results via messaging or shared memory.
+
+-> Memory and Reflection: Agents remember past steps and learn from outcomes.
+
+-> Orchestration: A lead agent or system coordinates the team.
+
+Example: Planning a vacation—one agent books the flight, another finds hotels and a third checks visa requirements. A coordinator agent makes sure everything matches your preferences.
