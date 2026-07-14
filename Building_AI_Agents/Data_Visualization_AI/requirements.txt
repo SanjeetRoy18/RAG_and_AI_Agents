@@ -1,0 +1,20 @@
+# --- Core LLM & Agent Frameworks ---
+# Frameworks
+langchain>=0.3.0
+langchain-experimental>=0.3.0
+
+# Providers
+langchain-groq>=0.2.0
+langchain-community>=0.3.0
+
+# Data & UI
+pandas>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# --- Web Interface & UI ---
+# Streamlit is perfect for rendering the chat and the generated charts instantly
+streamlit>=1.35.0
+
+# --- Environment & Utilities ---
+python-dotenv>=1.0.0
